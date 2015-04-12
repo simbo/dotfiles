@@ -1,0 +1,6 @@
+[submodule "home/.zsh-git-prompt"]
+	path = home/.zsh-git-prompt
+	url = git@github.com:olivierverdier/zsh-git-prompt.git
+[submodule "home/.oh-my-zsh"]
+	path = home/.oh-my-zsh
+	url = git@github.com:robbyrussell/oh-my-zsh.git
