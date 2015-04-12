@@ -1,0 +1,28 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 1,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"font_face": "Menlo",
+	"font_size": 18,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"TrailingSpaces",
+		"CSS"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Asphalt-blue.sublime-theme",
+	"word_wrap": false
+}

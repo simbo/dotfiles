@@ -1,0 +1,10 @@
+<snippet>
+	<content>/**
+ * + ${1:comment}
+ * =====================================================================
+ */
+${2}
+/* = ${1:comment} */
+</content>
+	<tabTrigger>/**+</tabTrigger>
+</snippet>

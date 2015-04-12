@@ -1,0 +1,48 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"CSV",
+		"Djaneiro",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Jade",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"jQuery",
+		"LESS",
+		"LoremGibson",
+		"LoremIpsum",
+		"Markdown Preview",
+		"Monokai Extended",
+		"MoveTab",
+		"Origami",
+		"Package Control",
+		"Placeholders",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"Stylus",
+		"Theme - Asphalt",
+		"TrailingSpaces",
+		"Twig",
+		"TypeScript",
+		"View In Browser"
+	]
+}
